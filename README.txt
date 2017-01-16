@@ -1,0 +1,1 @@
+program registers a hotkey, that when pressed will switch written text between hebrew and english
