@@ -1,0 +1,8 @@
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\bin\Debug\LangSwitch3.exe.config
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\obj\Debug\LangSwitch3.csprojResolveAssemblyReference.cache
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\obj\Debug\LangSwitch3.Properties.Resources.resources
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\obj\Debug\LangSwitch3.csproj.GenerateResource.Cache
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\bin\Debug\LangSwitch3.exe
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\bin\Debug\LangSwitch3.pdb
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\obj\Debug\LangSwitch3.exe
+c:\users\nimrod\documents\visual studio 2015\Projects\LangSwitch3\LangSwitch3\obj\Debug\LangSwitch3.pdb
